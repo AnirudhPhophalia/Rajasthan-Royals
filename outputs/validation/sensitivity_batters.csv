@@ -1,0 +1,9 @@
+category,variant,pool_n,spearman_rho,top10_overlap
+BATTERS,Threshold tau=0.65,103,0.9658,9
+BATTERS,Threshold tau=0.75,103,0.9484,8
+BATTERS,Top-Tier Matches Only (IPL+FM T20I),101,0.9971,9
+BATTERS,Pure High-Pressure Level (z_level),102,0.9901,9
+BATTERS,Pure RVA (hi_rva100_eb),102,0.9532,7
+BATTERS,Pure WPA (hi_wpa100_eb),102,0.8186,6
+BATTERS,Equal Weights (33/33/33),102,0.9988,10
+BATTERS,High Uplift Weight (30/50/20),102,0.9983,8

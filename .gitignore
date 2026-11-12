@@ -1,0 +1,38 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python caches & build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large intermediate binary / processed datasets (reproducible via src/)
+outputs/processed/*.pkl
+*.pkl
+*.parquet
+*.h5
+
+# OS & archive artifacts
+__MACOSX/
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
+
+# Editor / IDE settings
+.vscode/
+.idea/
+
+# Optional: uncomment to exclude raw CSV data pack from git
+# Data Pack/*.csv
+

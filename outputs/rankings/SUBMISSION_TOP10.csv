@@ -1,0 +1,21 @@
+Category,Rank,Player_Name,Player_ID,SPRI_Score,Hi_Balls,Hi_Matches,Hi_RVA100_EB,Baseline_RVA100_EB,Resilience_RVA100,Pos_Match_Rate
+Batter,1,Yashasvi Jaiswal,6819,2.167,457,78,9.64,2.22,5.06,0.606
+Batter,2,Suryakumar Yadav,1699,1.985,819,103,9.37,9.7,3.43,0.595
+Batter,3,Namboori Tilak Varma,7897,1.752,684,80,8.32,4.8,3.28,0.568
+Batter,4,Dinesh Karthik,143,1.633,267,40,7.78,6.02,2.51,0.649
+Batter,5,Nicholas Pooran,3125,1.572,627,78,8.04,6.18,2.75,0.58
+Batter,6,Mark Chapman,3374,1.505,239,36,7.55,4.54,2.55,0.595
+Batter,7,Heinrich Klaasen,4260,1.451,401,48,7.7,10.99,1.53,0.653
+Batter,8,Towhid Hridoy,6651,1.196,276,32,6.88,2.53,2.25,0.585
+Batter,9,Tim David,6396,1.153,455,59,6.8,9.75,0.85,0.593
+Batter,10,Andre Russell,1318,1.127,284,41,6.92,5.18,1.8,0.7
+Bowler,1,Axar Patel,2876,2.186,726,90,5.93,-1.56,6.8,0.541
+Bowler,2,Matheesha Pathirana,8661,1.674,420,39,8.15,9.28,5.36,0.652
+Bowler,3,Josh Hazlewood,830,1.619,595,59,6.13,5.06,4.76,0.6
+Bowler,4,Mujeeb Ur Rahman,6450,1.508,223,26,5.08,4.47,3.91,0.606
+Bowler,5,Shaheen Afridi,6355,1.493,438,42,4.85,1.83,4.57,0.521
+Bowler,6,Jasprit Bumrah,2933,1.46,580,61,6.02,10.68,2.76,0.561
+Bowler,7,Bhuvneshwar Kumar,360,1.365,968,92,4.35,6.17,2.61,0.6
+Bowler,8,Mitchell Santner,4101,1.353,392,55,4.66,2.97,4.0,0.566
+Bowler,9,Jacob Duffy,22920,1.22,266,33,4.96,4.01,3.94,0.525
+Bowler,10,Rashid Khan,4722,1.051,756,86,3.83,7.87,1.52,0.524

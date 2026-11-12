@@ -1,0 +1,9 @@
+category,variant,pool_n,spearman_rho,top10_overlap
+BOWLERS,Threshold tau=0.65,105,0.9737,8
+BOWLERS,Threshold tau=0.75,109,0.9598,6
+BOWLERS,Top-Tier Matches Only (IPL+FM T20I),97,0.9955,9
+BOWLERS,Pure High-Pressure Level (z_level),102,0.9873,9
+BOWLERS,Pure RVA (hi_rva100_eb),102,0.9503,8
+BOWLERS,Pure WPA (hi_wpa100_eb),102,0.7136,6
+BOWLERS,Equal Weights (33/33/33),102,0.9976,9
+BOWLERS,High Uplift Weight (30/50/20),102,0.9971,9
